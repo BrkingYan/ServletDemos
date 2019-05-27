@@ -1,0 +1,2 @@
+change the appbase in conf/server.xml to change the workspace
+default is webapps,I change it to webapps/projects
